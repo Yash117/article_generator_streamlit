@@ -1,0 +1,2 @@
+1. Open (just double click) on the "setup" file in the folder
+2. Then, once installed, you can run the app by opening (simple double click) the 'Article Generator' file in this folder
